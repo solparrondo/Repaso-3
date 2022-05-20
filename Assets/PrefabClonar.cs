@@ -42,6 +42,7 @@ public class PrefabClonar : MonoBehaviour
         {
             displayCloneLeft.text = "ERROR. Ingrese un valor";
         }
+        
     }
 
        
